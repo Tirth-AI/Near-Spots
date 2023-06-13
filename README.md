@@ -47,4 +47,3 @@ ___
 <p align="middle">
     <img src="https://github.com/Tirth-AI/Near-Spots/blob/master/Screenshots/5.jpg" width="30%" height="30%" />
  </p>
- ___
