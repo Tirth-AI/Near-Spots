@@ -28,4 +28,20 @@ ___
 
 ## Screenshots
 
+<p align="middle">
+    <img src="https://github.com/Tirth-AI/Near-Spots/blob/master/Screenshots/1.jpg" width="30%" height="30%" />
+  <space>
+    <img src="https://github.com/Tirth-AI/Near-Spots/blob/master/Screenshots/2.jpg" width="30%" height="30%" />
+</p>
 
+<p align="middle">
+    <img src="https://github.com/Tirth-AI/Near-Spots/blob/master/Screenshots/3.jpg" width="30%" height="30%" />
+  <space>
+    <img src="https://github.com/Tirth-AI/Near-Spots/blob/master/Screenshots/4.jpg" width="30%" height="30%" />
+</p>
+
+<p align="middle">
+    <img src="https://github.com/Tirth-AI/Near-Spots/blob/master/Screenshots/5.jpg" width="30%" height="30%" />
+</p>
+
+___
