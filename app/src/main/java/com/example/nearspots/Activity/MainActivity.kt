@@ -197,9 +197,10 @@ class MainActivity : AppCompatActivity(), OnMarkerClickListener {
             {
                 Toast.makeText(
                     this,
-                    "Place Not Found !!! \n Please Enter a Valid Place Name.",
+                    "Place Not Found !!!",
                     Toast.LENGTH_LONG
                 ).show()
+                binding.progressBar.isVisible = false
             })
 
         MySingleton.getInstance(this).addToRequestQueue(jsonObjectRequest)
