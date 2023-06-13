@@ -6,7 +6,7 @@
     tools:context=".SplashScreen.SplashScreenActivity"
     android:layout_gravity="center"
     android:gravity="center"
-    android:background="@mipmap/ic_launcher_background"
+    android:background="@color/splashScreenBgColor"
     android:orientation="vertical">
 
     <ImageView

@@ -3,7 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="elementColor">#FFff6f69</color>
-    <color name="bgColor">#FFBCEBCB</color>
+    <color name="bgColor">#FFD0F0C0</color>
+    <color name="splashScreenBgColor">#FFF0FFF0</color>
     <color name="cardViewColor">#F7FFF6</color>
 
 </resources>
