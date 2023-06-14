@@ -3,7 +3,7 @@ An android application to help users to find nearby places of interests based on
 ___
 ## How To Build?
 ### From Github
-1) From Master branch, download the [app-debug.apk](https://github.com/Tirth-AI/Near-Spots/blob/master/app-debug.apk) file.
+1) From Master branch, download the [Application APK file](https://github.com/Tirth-AI/Near-Spots/blob/master/app-debug.apk) file.
 2) Send it to your android device, install it, and enjoy navigating.
 
 
