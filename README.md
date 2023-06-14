@@ -47,6 +47,5 @@ ___
 <p align="middle">
     <img src="https://github.com/Tirth-AI/Near-Spots/blob/master/Screenshots/5.jpg" width="30%" height="30%" />
  </p>
-
-## Bugs/Issues to be handled
-* If GPS is OFF, app is able to turn it ON but still the location comes out to be NULL aa a result app crashes with 'NullPointerException' (currently working on this issue) 
+ 
+ ### All Bugs Handled
